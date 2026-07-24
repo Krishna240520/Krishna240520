@@ -1,4 +1,4 @@
-# Hi 👋 I'm Krishna Kushwaha
+# Hi 👋 I'm Krishna Kushawah
 
 🎓 3rd Year Computer Engineering Student  
 💻 Passionate about Programming & Problem Solving  
@@ -14,6 +14,8 @@
 - JavaScript
 - Java 
 - Git & GitHub
+- Oracle
+- Postgresql
 
 ---
 
