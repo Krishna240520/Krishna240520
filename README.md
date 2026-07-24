@@ -1,6 +1,6 @@
 # Hi 👋 I'm Krishna Kushwaha
 
-🎓 2nd Year Computer Engineering Student  
+🎓 3rd Year Computer Engineering Student  
 💻 Passionate about Programming & Problem Solving  
 🚀 Building skills step by step  
 
